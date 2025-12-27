@@ -1,2 +1,2 @@
-# Random-Number-Generator
+# Random Number Generator
 it generates
