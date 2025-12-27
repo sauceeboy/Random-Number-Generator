@@ -8,3 +8,9 @@ function gen() {
 
     generation.textContent = "Number: " + genNum;
 }
+
+document.addEventListener("keydown", function(event) {
+    if (event.key === "Enter") {
+        gen();
+    }
+})
